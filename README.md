@@ -34,7 +34,8 @@ This project demonstrates a **robust, scalable, and automated data engineering a
 - 🌍 **External API Integration:** OpenWeather API enriches datasets with contextual data.
 
 ## Architecture Diagram
-![Uploading group a group b.drawio (1).png…]()
+![group a group b drawio (1)](https://github.com/user-attachments/assets/526cf2ac-561c-42e2-a781-7f8ffd28ac7f)
+
 
 
 ## **Key Features**
