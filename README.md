@@ -33,6 +33,10 @@ This project demonstrates a **robust, scalable, and automated data engineering a
 - 📊 **Snowflake:** Data warehouse for advanced **analytics and reporting**.
 - 🌍 **External API Integration:** OpenWeather API enriches datasets with contextual data.
 
+## Architecture Diagram
+![Uploading group a group b.drawio (1).png…]()
+
+
 ## **Key Features**
 ✅ **Real-time data streaming and processing with Apache Kafka**  
 ✅ **Scalable S3-based Data Lake for structured and unstructured data storage**  
@@ -104,9 +108,7 @@ Contributions are welcome! Feel free to fork this repo, submit issues, and open 
 This project is licensed under the MIT License.
 
 ## **Contact**
-📧 Email: your.email@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🚀 GitHub: [Your GitHub Profile](https://github.com/yourusername)  
+📧 Email: abdullahk4803@gmail.com  
 
 ---
 
